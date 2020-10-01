@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I am [Taishi](https://taishikato.com/) 👋
+
+![banner that says Taishi Kato](https://github.com/taishikato/taishikato/raw/main/assets/header.png)
+
+![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
+
+![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)
+
+![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=portfolio&theme=radical&a=a)
 
 <!--
 **taishikato/taishikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
