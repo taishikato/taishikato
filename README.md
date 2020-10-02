@@ -2,6 +2,21 @@
 
 ![banner that says Taishi Kato](https://github.com/taishikato/taishikato/raw/main/assets/header.png)
 
+Software Engineer with 4 years of experience and a love for learning new skills.
+Regularly writes Medium articles and attends tech meetups to share knowledge and engage with the community.
+Goal-driven and passionate about development, with ongoing personal projects in the works.
+
+Four years as a software engineer at Yahoo! Japan and 1.5 years as a freelance developer.
+
+One of my personal project, [AskMakers](https://www.producthunt.com/posts/askmakers-2-0) got 380+ upvotes on Product Hunt.
+
+## Find me around the web 🌎
+
+* [LinkedIn](https://www.linkedin.com/in/takato0903/)
+* [Twitter](https://twitter.com/ProductHance)
+
+## My GitHub stats
+
 ![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
 
 ![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)
