@@ -19,9 +19,9 @@ One of my personal project, [AskMakers](https://www.producthunt.com/posts/askmak
 
 ![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
 
-![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)
+[![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)](https://github.com/taishikato/AskMakers)
 
-![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=portfolio&theme=radical&a=a)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=portfolio&theme=radical&a=a)](https://github.com/taishikato/portfolio)
 
 <!--
 **taishikato/taishikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
