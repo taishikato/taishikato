@@ -6,7 +6,7 @@ Software Engineer with 4 years of experience and a love for learning new skills.
 Regularly writes Medium articles and attends tech meetups to share knowledge and engage with the community.
 Goal-driven and passionate about development, with ongoing personal projects in the works.
 
-Four years as a software engineer at Yahoo! Japan and 1.5 years as a freelance developer.
+4 years as a software engineer at Yahoo! Japan and 1.5 years as a freelance developer.
 
 One of my personal project, [AskMakers](https://www.producthunt.com/posts/askmakers-2-0) got 380+ upvotes on Product Hunt.
 
