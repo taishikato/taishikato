@@ -13,15 +13,15 @@ One of my personal project, [AskMakers](https://www.producthunt.com/posts/askmak
 ## Find me around the web 🌎
 
 * [LinkedIn](https://www.linkedin.com/in/takato0903/)
-* [Twitter](https://twitter.com/ProductHance)
+* [Twitter](https://twitter.com/taishik_)
 
 ## My GitHub stats
 
 ![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
 
-[![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)](https://github.com/taishikato/AskMakers)
+[![Chatsage Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=chatsage&theme=radical&a=a)](https://github.com/taishikato/portfolio)
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=portfolio&theme=radical&a=a)](https://github.com/taishikato/portfolio)
+[![AskMakers Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=askmakers&theme=radical)](https://github.com/taishikato/AskMakers)
 
 <!--
 **taishikato/taishikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
