@@ -2,7 +2,7 @@
 
 ![banner that says Taishi Kato](https://github.com/taishikato/taishikato/raw/main/assets/header.png)
 
-Software Engineer with 4 years of experience and a love for learning new skills.
+Software Engineer with 7 years of experience and a love for learning new skills.
 Regularly writes Medium articles and attends tech meetups to share knowledge and engage with the community.
 Goal-driven and passionate about development, with ongoing personal projects in the works.
 
