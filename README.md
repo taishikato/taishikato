@@ -7,12 +7,8 @@ having led technical initiatives from Japan's highest-traffic web service to Nor
 thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
 contributing to AI-powered open-source tools and building RAG infrastructure platforms.
 
-4 years as a software engineer at Yahoo! Japan and 1.5 years as a freelance developer.
-
-One of my personal project, [AskMakers](https://www.producthunt.com/posts/askmakers-2-0) got 380+ upvotes on Product Hunt.
-
 ## Find me around the web 🌎
-
+* [Portfolio](https://taishikato.com/)
 * [LinkedIn](https://www.linkedin.com/in/takato0903/)
 * [Twitter](https://twitter.com/taishik_)
 
