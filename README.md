@@ -2,7 +2,7 @@
 
 ![banner that says Taishi Kato](https://github.com/taishikato/taishikato/raw/main/assets/header.png)
 
-Full Stack Software Engineer with 8+ years of experience specializing in TypeScript and React ecosystems,
+Full Stack Software Engineer with 10+ years of experience specializing in TypeScript and React ecosystems,
 having led technical initiatives from Japan's highest-traffic web service to North American startups. Currently
 thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
 contributing to AI-powered open-source tools and building RAG infrastructure platforms.
