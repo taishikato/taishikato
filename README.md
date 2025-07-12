@@ -16,9 +16,9 @@ contributing to AI-powered open-source tools and building RAG infrastructure pla
 
 ![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
 
-[![Chatsage Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=chatsage&theme=radical&a=a)](https://github.com/taishikato/portfolio)
-
 [![Supavec Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=supavec&theme=radical)](https://github.com/taishikato?tab=repositories)
+
+[![Chatsage Card](https://github-readme-stats.vercel.app/api/pin/?username=taishikato&repo=chatsage&theme=radical&a=a)](https://github.com/taishikato/portfolio)
 
 <!--
 **taishikato/taishikato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
