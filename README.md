@@ -1,6 +1,6 @@
-### Hi, I am [Taishi](https://taishikato.com/) 👋
+![Hey!](https://github.com/user-attachments/assets/32ecc4c0-43dd-422f-8bde-10666786fcc9)
 
-![banner that says Taishi Kato](https://github.com/taishikato/taishikato/raw/main/assets/header.png)
+Hey! I'm Taishi!
 
 Full Stack Software Engineer with 10+ years of experience specializing in TypeScript and React ecosystems,
 having led technical initiatives from Japan's highest-traffic web service to North American startups. Currently
