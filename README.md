@@ -7,11 +7,6 @@ having led technical initiatives from Japan's highest-traffic web service to Nor
 thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
 contributing to AI-powered open-source tools and building RAG infrastructure platforms.
 
-## Find me around the web 🌎
-* [Portfolio](https://taishikato.com/)
-* [LinkedIn](https://www.linkedin.com/in/takato0903/)
-* [Twitter](https://twitter.com/taishik_)
-
 ## My GitHub stats
 
 ![Taishi's github stats](https://github-readme-stats.vercel.app/api?username=taishikato&count_private=true&show_icons=true&theme=radical)
