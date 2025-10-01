@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/43085d8c-eeb4-4bfc-9a37-a9b6e4255dca)
+<img src="https://github.com/user-attachments/assets/43085d8c-eeb4-4bfc-9a37-a9b6e4255dca" width="500px" />
 
 Hey! I'm Taishi!
 
