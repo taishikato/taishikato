@@ -7,6 +7,21 @@ having led technical initiatives from Japan's highest-traffic web service to Nor
 thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
 contributing to AI-powered open-source tools and building RAG infrastructure platforms.
 
+Passionate about building small, focused open-source dev tools. Creator of [Supavec](https://github.com/supavec/supavec) (857+ ⭐), a popular developer tool in the Supabase ecosystem.
+
+## Open Source Projects
+
+A collection of developer tools I've built and maintain:
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [supavec](https://github.com/supavec/supavec) | Vector database toolkit for Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supavec?style=social) |
+| [chatsage](https://github.com/taishikato/chatsage) | AI-powered chat interface | ![GitHub stars](https://img.shields.io/github/stars/taishikato/chatsage?style=social) |
+| [previewcn](https://github.com/taishikato/previewcn) | Preview tool for shadcn/ui components | ![GitHub stars](https://img.shields.io/github/stars/taishikato/previewcn?style=social) |
+| [supadocs](https://github.com/taishikato/supadocs) | Documentation tool for Supabase projects | ![GitHub stars](https://img.shields.io/github/stars/taishikato/supadocs?style=social) |
+| [supabase-ai](https://github.com/supavec/supabase-ai) | AI integration utilities for Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supabase-ai?style=social) |
+| [supa-deep-research](https://github.com/supavec/supa-deep-research) | Deep research tool built on Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supa-deep-research?style=social) |
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@taishik_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/taishik_)
