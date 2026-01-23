@@ -2,10 +2,11 @@
 
 Hey! I'm Taishi!
 
-Full Stack Software Engineer with 10+ years of experience specializing in TypeScript and React ecosystems,
-having led technical initiatives from Japan's highest-traffic web service to North American startups. Currently
-thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
-contributing to AI-powered open-source tools and building RAG infrastructure platforms.
+Full Stack Engineer with 10+ years of experience specializing in TypeScript and React ecosystems,
+having led technical initiatives from Japan's highest-traffic web service to North American startups. Previously
+thrived as a solopreneur with successful projects like [Penelope AI](https://penelopeai.com/).
+
+Now focused on building open-source dev tools and RAG infrastructure platforms for the developer community.
 
 Passionate about building small, focused open-source dev tools. Creator of [Supavec](https://github.com/supavec/supavec) (870+ ⭐), a popular RAG tool in the Supabase ecosystem.
 
@@ -15,10 +16,10 @@ A collection of developer tools I've built and maintain:
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [supavec](https://github.com/supavec/supavec) | Vector database toolkit for Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supavec?style=social) |
+| [supavec](https://github.com/supavec/supavec) | An open-source RAG platform | ![GitHub stars](https://img.shields.io/github/stars/supavec/supavec?style=social) |
 | [chatsage](https://github.com/taishikato/chatsage) | AI-powered chat interface | ![GitHub stars](https://img.shields.io/github/stars/taishikato/chatsage?style=social) |
-| [previewcn](https://github.com/taishikato/previewcn) | Preview tool for shadcn/ui components | ![GitHub stars](https://img.shields.io/github/stars/taishikato/previewcn?style=social) |
-| [supadocs](https://github.com/taishikato/supadocs) | Documentation tool for Supabase projects | ![GitHub stars](https://img.shields.io/github/stars/taishikato/supadocs?style=social) |
+| [previewcn](https://github.com/taishikato/previewcn) | Real-time theme editor for shadcn/ui | ![GitHub stars](https://img.shields.io/github/stars/taishikato/previewcn?style=social) |
+| [supadocs](https://github.com/taishikato/supadocs) | A Next.js template for technical docs with AI chat, out of the box | ![GitHub stars](https://img.shields.io/github/stars/taishikato/supadocs?style=social) |
 | [supabase-ai](https://github.com/supavec/supabase-ai) | AI integration utilities for Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supabase-ai?style=social) |
 | [supa-deep-research](https://github.com/supavec/supa-deep-research) | Deep research tool built on Supabase | ![GitHub stars](https://img.shields.io/github/stars/supavec/supa-deep-research?style=social) |
 
