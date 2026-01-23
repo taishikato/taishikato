@@ -7,7 +7,7 @@ having led technical initiatives from Japan's highest-traffic web service to Nor
 thriving as a solopreneur with multiple successful projects including Penelope AI ($624 MRR), while actively
 contributing to AI-powered open-source tools and building RAG infrastructure platforms.
 
-Passionate about building small, focused open-source dev tools. Creator of [Supavec](https://github.com/supavec/supavec) (857+ ⭐), a popular developer tool in the Supabase ecosystem.
+Passionate about building small, focused open-source dev tools. Creator of [Supavec](https://github.com/supavec/supavec) (870+ ⭐), a popular RAG tool in the Supabase ecosystem.
 
 ## Open Source Projects
 
